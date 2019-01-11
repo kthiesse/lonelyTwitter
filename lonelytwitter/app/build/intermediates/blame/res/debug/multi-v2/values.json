@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/afs/ualberta.ca/home/k/t/kthiesse/AndroidStudioProjects/lonelytwitter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "C:\\Users\\sk8te\\Documents\\301\\lonelytwitter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "/afs/ualberta.ca/home/k/t/kthiesse/AndroidStudioProjects/lonelytwitter/app/src/main/res/values/strings.xml",
+                    "source": "C:\\Users\\sk8te\\Documents\\301\\lonelytwitter\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,6,3,5",
                         "startColumns": "4,4,4,4",

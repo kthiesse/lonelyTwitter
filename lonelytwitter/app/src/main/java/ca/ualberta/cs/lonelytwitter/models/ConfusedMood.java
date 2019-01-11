@@ -1,13 +1,11 @@
 package ca.ualberta.cs.lonelytwitter.models;
 
+
 public class ConfusedMood extends CurrentMood {
-    private string date;
-    public string getDate() {
-        return date;
+    public string confused() {
+        line_response = "I'm so very confused";
+        return line_response;
     }
 
-    private void setDate(string date) {
-        this.date = date;
-    }
 
 }
